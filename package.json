@@ -1,0 +1,20 @@
+{
+  "name": "azubiprojekt_az2",
+  "version": "1.0.0",
+  "description": "AzubiProjekt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzuki27/AzubiProjekt_AZ2.git"
+  },
+  "author": "zzuki27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzuki27/AzubiProjekt_AZ2/issues"
+  },
+  "homepage": "https://github.com/zzuki27/AzubiProjekt_AZ2#readme"
+}
